@@ -12,11 +12,12 @@ namespace SE3_C
         {
             Console.Write("Ingrese un numero: ");
             string num = Console.ReadLine();
-            int entero = int.Parse(num); ;
-            double deci = double.Parse(num);
 
-            Console.WriteLine($"\nResto: {entero % 2}");
-            Console.WriteLine($"Dividido entre 3: {deci/3}");
+            double deci = double.Parse(num);
+            int entero = (int)Math.Round(deci); ;
+
+            Console.WriteLine($"\nResto 2: {entero % 2}");
+            Console.WriteLine($"decimal /3: {deci/3}");
         }
     }
 }

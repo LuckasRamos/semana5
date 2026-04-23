@@ -2,18 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>87c74d99-36d7-4915-940a-0cddad405434</ProjectGuid>
+    <ProjectGuid>472797fb-2983-40ac-a9eb-51fb42edbb07</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejer5.py</StartupFile>
+    <StartupFile>SE4_P.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>S3-P</Name>
-    <RootNamespace>S3-P</RootNamespace>
-    <IsWindowsApplication>False</IsWindowsApplication>
-    <InterpreterId>
-    </InterpreterId>
+    <Name>SE4-P</Name>
+    <RootNamespace>SE4-P</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -24,12 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ejer1.py" />
-    <Compile Include="ejer2.py" />
-    <Compile Include="ejer3.py" />
-    <Compile Include="ejer4.py" />
-    <Compile Include="ejer5.py" />
-    <Compile Include="ejer6.py" />
+    <Compile Include="SE4_P.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

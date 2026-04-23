@@ -13,10 +13,12 @@ namespace SE3_C
             Console.Write("Ingrese número decimal: ");
             double num = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Raiz: {Math.Sqrt(num)}");
+            Console.WriteLine($"\nRaiz cuadrada: {Math.Sqrt(num)}");
             Console.WriteLine($"Redondeado: {Math.Round(num,0)}");
-            Console.WriteLine($"Al cubo: {Math.Pow(num,3)}");
+            Console.WriteLine($"Elevando al cubo: {Math.Pow(num,3)}");
             Console.WriteLine($"Raiz Cubica: {Math.Pow(num,1/3d)}");
+            //Agregamos subfijo "d" para obtener el resultado exacto
+            //Cuando son fricciones.
 
         }
     }
