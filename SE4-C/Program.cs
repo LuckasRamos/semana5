@@ -10,6 +10,7 @@ namespace SE4_C
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
