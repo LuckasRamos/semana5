@@ -1,0 +1,16 @@
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.exe.config
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.exe
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.pdb
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.exe
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.pdb
+C:\Users\UPN\Pictures\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.exe.config
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.exe.config
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.exe
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\bin\Debug\SE5-C.pdb
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.exe.config
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.exe
+C:\Users\UPN\Downloads\SEMANA_5\FA-16185\SE5-C\obj\Debug\SE5-C.pdb
